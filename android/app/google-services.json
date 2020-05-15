@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647482068317",
+    "firebase_url": "https://andu-339a1.firebaseio.com",
+    "project_id": "andu-339a1",
+    "storage_bucket": "andu-339a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647482068317:android:992dd9bbe6f4b6cf5f2cb4",
+        "android_client_info": {
+          "package_name": "com.example.e_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647482068317-akdqqbnekultn3opcpp08rk39hmajkn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvSXmzWRM4bXFRPIem_N6XEOrflGR9zOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647482068317-akdqqbnekultn3opcpp08rk39hmajkn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
